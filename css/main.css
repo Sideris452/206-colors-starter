@@ -61,18 +61,22 @@ footer {
 @media (min-width: 768px) {
   header {
     background-color: aliceblue  ;
+  
   }
 
   #column-1 {
     background-color:antiquewhite ;
+    width: 50%;
   }
 
   #column-2 {
     background-color:aqua ;
+    width: 50%;
   }
 
   #column-3 {
     background-color:aquamarine ;
+    width: 50%;
   }
 
   footer {
@@ -90,14 +94,17 @@ footer {
 
   #column-1 {
     background-color:blueviolet ;
+    width: 65%;
   }
 
   #column-2 {
     background-color: blanchedalmond ;
+    width: 65%;
   }
 
   #column-3 {
     background-color: cadetblue;
+    width: 65%;
   }
 
   footer {
